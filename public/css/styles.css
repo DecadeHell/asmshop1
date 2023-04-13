@@ -1,0 +1,12 @@
+.table1{
+    margin-left:330px;
+    background-color: cadetblue;
+    opacity: .9;
+    margin-top:15px;
+    padding:20px;
+    border-radius: 2%;
+}
+
+.bgr{
+    background-image: url('/img/111.jpg');
+}
